@@ -1,0 +1,25 @@
+{
+	"name": "pg-schema-restorer",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"bin": {
+		"pg-schema-restorer": "./index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"chalk": "^4.0.0",
+		"child_process": "^1.0.2",
+		"clear": "^0.1.0",
+		"configstore": "^5.0.1",
+		"figlet": "^1.4.0",
+		"inquirer": "^7.1.0",
+		"klaw-sync": "^6.0.0",
+		"pg": "^8.0.3"
+	}
+}
