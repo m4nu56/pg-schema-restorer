@@ -8,6 +8,8 @@ It will then drop the existing schemas and restore the backup
 
 Stores the database credentials into a local json to simplify the use of the tool.
 
+![./assets/presentation.png](./assets/presentation.png)
+
 ## Inspiration
 
 Fully inspired (to not say copy/pasted) from this post by [Lukas White](https://www.sitepoint.com/author/lwhite)
@@ -31,4 +33,6 @@ If installed globally just run in the command prompt:
 
 Or else `> npm start`
 
-![./assets/presentation.png](./assets/presentation.png)
+## Help needed
+
+Haven't tested it on MacOS or Windows.
