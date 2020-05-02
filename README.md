@@ -8,7 +8,7 @@ It will then drop the existing schemas and restore the backup
 
 Stores the database credentials into a local json to simplify the use of the tool.
 
-![./assets/presentation.png](./assets/presentation.png)
+![./assets/demo.gif](./assets/demo.gif)
 
 ## Inspiration
 
