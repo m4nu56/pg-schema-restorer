@@ -16,6 +16,7 @@
 		"chalk": "^4.0.0",
 		"child_process": "^1.0.2",
 		"clear": "^0.1.0",
+		"cli-spinner": "^0.2.10",
 		"configstore": "^5.0.1",
 		"figlet": "^1.4.0",
 		"inquirer": "^7.1.0",
