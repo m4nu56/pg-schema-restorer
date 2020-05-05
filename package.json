@@ -1,6 +1,6 @@
 {
 	"name": "pg-schema-restorer",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "A simple CLI tool to easily restore a PG schema on a local database",
 	"main": "index.js",
 	"scripts": {

@@ -1,5 +1,7 @@
 # Postgres Schema Restorer
 
+![Node.js Package](https://github.com/m4nu56/pg-schema-restorer/workflows/Node.js%20Package/badge.svg)
+
 CLI Tool to simplify restoring schema into local database.
 
 It will look for backup files in your ~/Documents and ~/Downloads directory and let you select which one to restore.
